@@ -8,7 +8,7 @@ The only executable file used for this project is a bash script used to extract 
 The goal of the project was to set up a virtual machine as a web server and learn the basics of system administration. The project was developed on Debian without a GUI.  
   
 ### Users and groups
-One of the tasks was to create a user
+One of the tasks was to create a user  
 `# useradd user_name`  
   
 create a group  
